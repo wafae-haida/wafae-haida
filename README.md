@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Wafae Haida
-### A passionate backend developer from Morocco
-### 🌱 I’m currently learning UX design
-### 💬 Ask me about Java | Laravel
-                                                                                                                              📫 How to reach me: wafae.haida23@gmail.com
+Hi 👋 I'm Wafae Haida
+### A passionate backend developer
+🌱 I’m currently learning UX design
+💬 Ask me about Java | Laravel
+📫 How to reach me: wafae.haida23@gmail.com
 <!--
 **wafaehai/wafaehai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
