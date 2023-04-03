@@ -1,4 +1,4 @@
-I'am a passionate web and desktop developer, always ready to experience new things, learn new technologies, and apply them to my life. 
+I'am a passionate web and desktop backend developer, always ready to experience new things, learn new technologies, and apply them to my life. 
 My ultimate goal is to create an impact with my code by using it to solve real-life problems, therefore I am currently focusing on learning user experience.
 
 <!--
