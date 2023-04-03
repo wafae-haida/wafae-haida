@@ -1,4 +1,5 @@
-I am a passionate web and desktop developer, always ready to experience new things, learn new technologies, and apply them to my life. My ultimate goal is to create an impact with my code by using it to solve real-life problems, therefore I am currently focusing on learning user experience.
+I'am a passionate web and desktop developer, always ready to experience new things, learn new technologies, and apply them to my life. 
+My ultimate goal is to create an impact with my code by using it to solve real-life problems, therefore I am currently focusing on learning user experience.
 
 <!--
 **wafaehai/wafaehai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
