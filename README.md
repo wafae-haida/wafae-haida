@@ -1,4 +1,4 @@
-I'm a passionate web and desktop backend developer, always ready to experience new things, learn new technologies, and apply them to my life. 
+I'm a passionate web developer, always ready to experience new things, learn new technologies, and apply them to my life. 
 My ultimate goal is to create an impact with my code by using it to solve real-life problems.
 ## Languages ✨
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
