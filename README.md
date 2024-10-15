@@ -3,10 +3,11 @@ My ultimate goal is to create an impact with my code by using it to solve real-l
 ## Languages ✨
 <img align="left" alt="Html" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <br/>
 <br/>
 <br/>
+<!--
 <details>
       <summary><h3>Read more about Wafae</h3></summary>
 I am a Junior Frontend developer, with a Bachelor's degree in Computer Science.
@@ -14,7 +15,7 @@ Before, I worked as a full-stack intern at ITIC SOLUTION company, where I built 
 I bring a unique combination of skills and perspectives to a junior Frontend role, also I have experience in both frontend and backend roles, and I keep seeking new knowledge and skills through self-learning.
 In my spare time ⚡, I like to stay fit and active by working out, I also like to write. When I write, I relax completely and find myself in another world. It helps me think outside the box and use my imagination and creative sides. I also like meditation since it helps to organize my thoughts.
 
-<!--
+
 **wafaehai/wafaehai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
