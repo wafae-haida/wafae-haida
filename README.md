@@ -1,4 +1,4 @@
-👋 Hi, I’m Wafae Haida! 👩‍💻 Front-end Developer | CSS Enthusiast | Passionate Learner
+👋 Hi, I’m Wafae! 👩‍💻 Front-end Developer | CSS Enthusiast | Passionate Learner
 ## Languages ✨
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="Html" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
